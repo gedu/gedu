@@ -1,5 +1,5 @@
 
-[![Header](https://github.com/gedu/gedu/main/images/readme_header.png "Header")]
+[![Header](https://github.com/gedu/gedu/images/readme_header.png "Header")]
 ### Hi there 👋
 
 <!--
