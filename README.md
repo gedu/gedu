@@ -1,6 +1,7 @@
 
-[![Header](https://github.com/gedu/gedu/blob/main/images/git_header.jpg "Header")]
+![Header](https://github.com/gedu/gedu/blob/main/images/git_header.jpg "Header")
 ### Hi there 👋
+I'm a mobile developer
 
 <!--
 **gedu/gedu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
