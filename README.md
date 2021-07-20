@@ -6,7 +6,14 @@ I'm a mobile developer
 ## Techs
 
 ![](https://img.shields.io/badge/Android-Kotlin%2FJava-green)
-![](https://img.shields.io/static/v1?label=Flutter&color=blue)
+![](https://img.shields.io/badge/Flutter-Dart%20-blue)
+![](https://img.shields.io/badge/React--Native-JS%20-yellow)
+
+## Stats
+
+<a href="https://github.com/gedu/gedu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gedu&hide=dart,kotlin,java,java-script,nodejs&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
+</a>
 
 <!--
 **gedu/gedu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
