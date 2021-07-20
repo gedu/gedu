@@ -6,6 +6,7 @@ I'm a mobile developer
 ## Techs
 
 ![](https://img.shields.io/badge/Android-Kotlin%2FJava-green)
+![](https://img.shields.io/static/v1?label=Flutter&color=blue)
 
 <!--
 **gedu/gedu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
