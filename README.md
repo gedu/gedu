@@ -1,7 +1,7 @@
 
 ![Header](https://github.com/gedu/gedu/blob/main/images/git_header.jpg "Header")
 ### Hi there 👋
-I'm a mobile developer
+I'm a mobile lead developer
 
 ## Techs
 
