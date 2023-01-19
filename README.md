@@ -7,7 +7,7 @@ I'm a mobile lead developer
 
 ![](https://img.shields.io/badge/Android-Kotlin%2FJava-green)
 ![](https://img.shields.io/badge/Flutter-Dart%20-blue)
-![](https://img.shields.io/badge/React--Native-JS%20-yellow)
+![](https://img.shields.io/badge/React--Native-TS%20-blue)
 
 ## Stats
 
